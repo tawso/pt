@@ -4,6 +4,7 @@
   "package": "box.pt.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
+    "ParrotMixin"
   ],
   "client": [
   ],

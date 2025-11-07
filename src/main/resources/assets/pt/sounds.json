@@ -1,0 +1,11 @@
+{
+  "troll_1": {
+    "sounds": [ "pt:custom/troll/sound_1" ]
+  },
+  "troll_2": {
+    "sounds": [ "pt:custom/troll/sound_2" ]
+  },
+  "troll_3": {
+    "sounds": [ "pt:custom/troll/sound_3" ]
+  }
+}
